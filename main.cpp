@@ -24,7 +24,7 @@ int main()
   //the first and second blanks should be replaced with the coordinates
   //of the element's row and column and the third blank should be replaced
   //with the value of that element
-  for(string = i; i > 0; i++) 
+  for(int = i; i > 0; i++) 
     {
       cout<<"Row: "<<wordGrid.size()<<" Colum: "<<wordGrid().size<<" is: "<< sum = wordGrid.size() + wordGrid().size<<endl; 
     }
